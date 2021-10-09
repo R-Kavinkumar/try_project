@@ -17,5 +17,5 @@ from django.urls import path
 from auswegaut import views as f
 
 urlpatterns = [
-    path('1st/',f.func),
+    path('',f.func),
 ]
